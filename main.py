@@ -104,24 +104,6 @@ def main():
             print(console)
             print("Você venceu!!!  Terminou o jogo com %d pontos e %d vidas!"%(pacman.pontos(),pacman.no_vidas()))
             
-        
-       
-            
-        
-        
-            
-        
-        
-            
-        
-        
-            
-            
-            
-            
-        
-    
-    
 
 #----------------------------------------------------------------------
 def crie_pacman(lab):
