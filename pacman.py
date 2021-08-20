@@ -1,8 +1,3 @@
-"""
-  Nome :Renan de Souza Luiz
-
-"""
-
 # as constantes que podem ser usadas estão em constantes.py
 # para usá-las não é necessário escrever "constantes."
 from constantes import * 
@@ -307,35 +302,5 @@ class Pacman():
                     
                     
                     
-                
-        
-                    
-               
-                
-                
-                    
-                    
-                
-                    
-                
-            
-                    
-                    
-                    
-                    
-
-                    
-                    
-                    
-                
-                    
-                    
-                    
-                
-                
-                    
-            
-            
-                
                 
             
