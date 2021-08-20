@@ -1,7 +1,3 @@
-"""
-  Nome :Renan de Souza Luiz
-
-"""
 import random # para random.seed()
 
 # as constantes que podem ser usadas estão em constantes.py
@@ -204,20 +200,5 @@ def houve_colisao(pac_man, fantasmas):
         
     return False
             
-        
-        
-
-
-#-----------------------------------------------------------------
-# Início do espaço reservado para eventuais funções auxiliares
-# usadas neste módulo
-#
-
-
-
-# fim do espaço reservado para eventuais funções auxiliares
-# usadas neste módulo
-#-----------------------------------------------------------------
-
 # chamada da função main() deve ser a última linha do módulo    
 main()
