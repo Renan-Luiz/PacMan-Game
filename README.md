@@ -6,4 +6,4 @@ Pacman game developed in python.
 
 The Maze can be quickly made by adding walls '+', pacdots '.' and pacman 'C' to a txt file.
 
-The comments in the code are in portuguese language.
+The comments in the code are in portuguese.
